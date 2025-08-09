@@ -2253,7 +2253,7 @@
   categories:
   #Start of Harmony change
   #- UplinkJob
-  - UplinkWeaponry #Swaped the category to weapons so its not alone in a separete category, It originaly comes from the librarians job item which is why its listed in job specific. Didn't want to move the whole entry up.
+  - UplinkWeaponry #Swapped the category to weaponry. It was originally a librarian's job item upstream which is why it's listed in job specific
   #conditions:
   #- !type:BuyerJobCondition
   #  whitelist:
